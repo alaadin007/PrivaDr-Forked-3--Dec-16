@@ -32,7 +32,7 @@ export const drAnwarHaq: Doctor = {
     "Member, British Association of Community Child Health (BACCH)"
   ],
   registrations: [
-    "GMC UK Full Registration (Specialist in Paediatrics), GMC No. 5109985",
+    "GMC UK Full Registration No. 5109985",
     "Specialist Register in Paediatrics, Ireland, Reg. No. 10269"
   ]
 }
